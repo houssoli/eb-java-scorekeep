@@ -8,4 +8,10 @@ build/*
 *.zip
 *.sh
 !bin/*.sh
+/bin/
 lib
+.classpath
+.project
+/.settings/
+/.gradle/
+/build/
